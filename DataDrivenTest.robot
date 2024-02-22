@@ -6,7 +6,7 @@ Test Teardown  Close Browsers
 Test Template  Invalid Login
 
 *** Variables ***
-${TEST}         testMaster
+${TEST}         testBranch
 
 
 *** Test Cases ***
